@@ -1,1 +1,1 @@
-# spamkit
+# spamkit-mailer
