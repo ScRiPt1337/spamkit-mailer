@@ -2,7 +2,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/ScRiPt1337/spamkit-mailer/master/img/xcxc.png)
 
-### Free bulk Mailer 
+### Free Mass Mailer 
 
 ### feature
 * Asynchronous
